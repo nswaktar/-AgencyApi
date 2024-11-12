@@ -48,11 +48,11 @@ public class Agency {
         this.description = description;
     }
     public String getDescriptionBd() {
-        return description;
+        return descriptionBd;
     }
 
     public void setDescriptionBd(String description) {
-        this.description = description;
+        this.descriptionBd = description;
     }
 
 }
